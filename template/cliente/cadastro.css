@@ -1,0 +1,31 @@
+body {
+    background-color: #ffffff;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.cabecalho1 {
+    color: yellow;
+}
+
+.cabecalho2 {
+    color: green;
+}
+
+#confirm {
+    display: none;
+}
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}

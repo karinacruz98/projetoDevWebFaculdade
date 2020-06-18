@@ -1,0 +1,69 @@
+body {
+    background-color: #ffffff;
+}
+
+img {
+    width: 256px;
+    height: 256px;
+}
+
+.contender {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.sobre-empresa {
+    height: 350px;
+}
+
+.cabecalho1 {
+    color: yellow;
+}
+
+.cabecalho2 {
+    color: green;
+}
+
+.missao {
+    height: 300px;
+}
+
+.visao {
+    height: 300px;
+}
+
+.valor {
+    height: 300px;
+}
+
+.produto {
+    height: 300px;
+}
+
+.servico {
+    height: 300px;
+}
+
+.endereco {
+    height: 512px;
+}
+
+p {
+    font-size: 24px;
+}
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}
